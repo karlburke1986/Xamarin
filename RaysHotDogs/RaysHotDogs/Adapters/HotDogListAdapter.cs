@@ -58,6 +58,7 @@ namespace RaysHotDogs.Adapters
                 item.Name;
 
             return convertView;
+
         }
     }
 }

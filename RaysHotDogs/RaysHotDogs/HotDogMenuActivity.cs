@@ -37,6 +37,8 @@ namespace RaysHotDogs
             hotDogListView.Adapter = new HotDogListAdapter(this, allHotDogs);
 
             hotDogListView.FastScrollEnabled = true;
+
+
         }
     }
 }
